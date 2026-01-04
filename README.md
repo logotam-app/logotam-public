@@ -1,6 +1,6 @@
 # 🛡️ Logotam — The Minimalist Startpage Network
 
-Logotam is a privacy-first, ad-free dashboard designed to provide instant access to the most essential web services for your region. Built with pure HTML5/CSS3 for maximum performance (99/100 Lighthouse Score).
+Logotam is a privacy-first, ad-free dashboard designed to provide instant access to the most essential web services for your region. Built with pure HTML5/CSS3 for maximum performance (85+/100 Lighthouse Score).
 
 **Updated for 2026.**
 
